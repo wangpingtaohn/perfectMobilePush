@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:27
+-keep class com.perfect.mqtt.CompletedBroadCast { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.perfect.mqtt.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.perfect.mqtt.demo.PushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.perfect.mqtt.demo.PushBroadCast { <init>(...); }
+
